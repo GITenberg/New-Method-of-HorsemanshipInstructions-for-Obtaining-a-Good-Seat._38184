@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40008
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Baucher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38184#New-Method-of-HorsemanshipInstructions-for-Obtaining-a-Good-Seat.
 gutenberg_issued: '2011-12-01'
 gutenberg_type: Text
 identifiers:
