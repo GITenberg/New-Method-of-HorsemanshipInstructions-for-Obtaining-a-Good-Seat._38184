@@ -1,0 +1,32 @@
+_repo: New-Method-of-HorsemanshipInstructions-for-Obtaining-a-Good-Seat._38184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baucher, François
+    aliases:
+    - Baucher, Francois
+    - Baucher, F. (François)
+    birthdate: 1796
+    deathdate: 1873
+    gutenberg_agent_id: '40008'
+    url: http://www.gutenberg.org/2009/agents/40008
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Baucher
+description: ''
+gutenberg_issued: '2011-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Horsemanship'
+- !lcsh 'Dressage'
+title: "New Method of Horsemanship\r\nIncluding the Breaking and Training of Horses,\
+  \ with Instructions for Obtaining a Good Seat."
+url: http://www.gutenberg.org/ebooks/38184
